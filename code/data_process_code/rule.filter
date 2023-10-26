@@ -1,0 +1,3 @@
+# Creating multiple files
+# set edition=2;
+write "[centre]_[dataDate]_[step]_[levelType].grib[edition]";
